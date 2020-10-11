@@ -1,6 +1,6 @@
 // Fetch the items from the JSON file
 function loadItems() {
-  return fetch("https://jzizsuuz.github.io/javascript-minigame/data/data.json")
+  return fetch("data/data.json")
     .then((response) => response.json())
     .then((json) => json.items);
 }
