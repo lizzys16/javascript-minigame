@@ -5,63 +5,63 @@
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/pink_t.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/pink_t.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/pink_s.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/pink_s.png"
     },
     {
       "type": "pants",
       "gender": "female",
       "size": "large",
       "color": "pink",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/pink_p.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/pink_p.png"
     },
     {
       "type": "tshirt",
       "gender": "female",
       "size": "large",
       "color": "yellow",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/yellow_t.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/yellow_t.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "large",
       "color": "yellow",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/yellow_s.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/yellow_s.png"
     },
     {
       "type": "pants",
       "gender": "male",
       "size": "large",
       "color": "yellow",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/yellow_p.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/yellow_p.png"
     },
     {
       "type": "tshirt",
       "gender": "male",
       "size": "large",
       "color": "blue",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/blue_t.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/blue_t.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "large",
       "color": "blue",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/blue_s.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/blue_s.png"
     },
     {
       "type": "pants",
       "gender": "male",
       "size": "large",
       "color": "blue",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/blue_p.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/blue_p.png"
     },
 
     {
@@ -69,63 +69,63 @@
       "gender": "female",
       "size": "small",
       "color": "pink",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/pink_t.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/pink_t.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "small",
       "color": "pink",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/pink_s.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/pink_s.png"
     },
     {
       "type": "pants",
       "gender": "female",
       "size": "small",
       "color": "pink",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/pink_p.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/pink_p.png"
     },
     {
       "type": "tshirt",
       "gender": "female",
       "size": "small",
       "color": "yellow",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/yellow_t.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/yellow_t.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "small",
       "color": "yellow",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/yellow_s.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/yellow_s.png"
     },
     {
       "type": "pants",
       "gender": "male",
       "size": "small",
       "color": "yellow",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/yellow_p.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/yellow_p.png"
     },
     {
       "type": "tshirt",
       "gender": "male",
       "size": "small",
       "color": "blue",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/blue_t.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/blue_t.png"
     },
     {
       "type": "skirt",
       "gender": "female",
       "size": "small",
       "color": "blue",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/blue_s.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/blue_s.png"
     },
     {
       "type": "pants",
       "gender": "male",
       "size": "small",
       "color": "blue",
-      "image": "https://jzizsuuz.github.io/javascript-minigame/imgs/blue_p.png"
+      "image": "https://lizzys16.github.io/javascript-minigame/imgs/blue_p.png"
     }
   ]
 }

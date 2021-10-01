@@ -1,14 +1,14 @@
 // Fetch the items from the JSON file
 function loadItems() {
-  return fetch("https://jzizsuuz.github.io/javascript-minigame/data/data.json")
-    .then((response) => response.json())
-    .then((json) => json.items);
+  return fetch("https://lizzys16.github.io/javascript-minigame/data/data.json")
+    .then(response => response.json())
+    .then(json => json.items);
 }
 
 // Update the list with the given items
 function displayItems(items) {
   const container = document.querySelector(".items");
-  container.innerHTML = items.map((item) => createHTMLString(item)).join("");
+  container.innerHTML = items.map(item => createHTMLString(item)).join("");
 }
 
 // Create HTML list item from the given data item
@@ -48,7 +48,7 @@ function onButtonClick(event) {
 
 // Make the items matching {key: value} invisible.
 function updateItems(itemList, value) {
-  itemList.forEach((item) => {
+  itemList.forEach(item => {
     const keys = item.querySelector("img").alt.split(",");
     if (keys[0] === value || keys[1] === value) {
       item.classList.remove("invisible");
@@ -62,12 +62,12 @@ function setEventListener(items) {
   const logo = document.querySelector(".logo");
   const buttons = document.querySelector(".buttons");
   logo.addEventListener("click", () => displayItems(items));
-  buttons.addEventListener("click", (event) => onButtonClick(event, items));
+  buttons.addEventListener("click", event => onButtonClick(event, items));
 }
 
 // main
 loadItems()
-  .then((items) => {
+  .then(items => {
     // console.log(items);
     displayItems(items);
     setEventListener(items);
